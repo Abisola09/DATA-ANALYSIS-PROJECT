@@ -1,0 +1,31 @@
+    1  ls
+    2  cd desktop
+    3  ls 
+    4  cd ..
+    5  clear
+    6  cd desktop
+    7  mkdir git-class
+    8  cd git-class
+    9  touch joy.txt
+   10  touch data.xlsx visuals.pbix bis.sql
+   11  git init
+   12  git remote add origin https://github.com/Abisola09/DATA-ANALYSIS-PROJECT.git
+   13  git branch -M main
+   14  git push -u origin main
+   15  git status
+   16  git add joy.txt
+   17  git rm joy.txt
+   18  git status
+   19  git status
+   20  git add .
+   21  git status
+   22  git commit -m 'added 4 files
+
+git status
+   23  git commit -m 'ADDED 4 FILES'
+   24  git comfig --global user.email 'aadegbola026@gmail.com'
+   25  git config --global user.email "aadegbola026@gmail.com"
+   26  git config --global user.name "Abisola"
+   27  git commit -m 'ADDED 4 FILES'
+   28  git push -u origin main
+   29  history >> commands.txt
